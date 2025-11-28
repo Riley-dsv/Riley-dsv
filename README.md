@@ -10,6 +10,7 @@ I mostly work with :
 - **Java**
 - **COBOL**
 - **Pascal**
+- **JS/TS**
 
 Yes, I like **legacy code**. ( Someone must maintain it, right ? )
 
