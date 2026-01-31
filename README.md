@@ -2,7 +2,7 @@
 
 ## About
 
-I'm a student in **BUT Informatique**, I am fond of programming, optimisation and functionnal paradigm.
+I'm a student in **BUT Informatique**, I am fond of programming, optimisation and functionnal paradigm. In everyday life I dual boot FreeBSD and ArchLinux.
 
 I mostly work with :
 - **C**
