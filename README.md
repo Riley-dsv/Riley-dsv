@@ -6,6 +6,7 @@ I'm a student in **BUT Informatique**, I am fond of programming, optimisation an
 
 I mostly work with :
 - **C**
+- **Fortran**
 - **Python**
 - **Java**
 - **COBOL**
