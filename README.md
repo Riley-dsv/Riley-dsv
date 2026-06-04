@@ -1,37 +1,64 @@
-# Hi, I'm Riley
+# Riley
 
-## About
+I write software, break abstractions open, and occasionally teach old systems new tricks.
 
-I'm a student in **BUT Informatique**, I am fond of programming, optimisation and functionnal paradigm. In everyday life I dual boot FreeBSD and ArchLinux.
+My projects usually live somewhere between:
 
-I mostly work with :
-- **C**
-- **Fortran**
-- **Python**
-- **Java**
-- **COBOL**
-- **Pascal**
-- **JS/TS**
+* a native tool that should have existed already,
+* a backend application being rebuilt with proper boundaries,
+* a Linux service I installed because doing it myself was more interesting,
+* and a legacy system that absolutely still has something to say.
 
-Yes, I like **legacy code**. ( Someone must maintain it, right ? )
+## Currently building
 
-## At the moment
+### [Noema](https://github.com/Riley-dsv/Noema)
 
-- I learn **PHP**
-- I discover **Ada**
-- I practice **Clean Code** principles and **SOLID** design
+**Rust - CLI - Local-first notes**
 
-## I like...
+A native note-taking tool for people who would rather own their workflow than wait for a web application to finish loading.
 
-- Tinker old system to understand how it used to work and the intents of the previous devs
-- Write clean and durable code. And read code that is not.
-- Spend 4 days automating a 1 minute task.
+### [Markov-Bot](https://github.com/Riley-dsv/Markov-Bot)
 
-## Fun fact
+**TypeScript - Clean Architecture - Discord**
 
-> ping 1.1 is the fastest way to check a device's internet connectivity.
-> This entry is automatically converted to 1.0.0.1, which is Cloudflare's public DNS http://1.1.1.1
-> because according to the IPV4 standard, missing bytes are converted to 0.
+A Discord bot that collects eligible messages and generates text through Markov chains, while serving as an excuse to build application boundaries properly.
 
----
+### [Mainstream](https://github.com/Riley-dsv/Mainstream)
 
+**COBOL - Distributed systems - Interoperability**
+
+A project about financial transactions, modern services, and the inconvenient reality that legacy software is often still running the world.
+
+### [Lib-Result](https://github.com/Riley-dsv/Lib-Result)
+
+**TypeScript - Error handling**
+
+A small `Result` implementation for code that prefers admitting failure explicitly.
+
+## Things I care about
+
+* Native applications over unnecessary web wrappers
+* Domain logic that does not leak everywhere
+* Explicit errors over optimistic chaos
+* Linux systems, automation, and self-hosting
+* Old languages, modern architecture, and the bridge between them
+* Documentation written by someone who actually tried the thing first
+
+## Stack
+
+```text
+Languages    Rust, TypeScript, C, COBOL, Pascal
+Backend      Node.js, MongoDB, Discord.js
+Systems      Linux, Docker, Git, shell tooling
+Interests    Clean Architecture, native tooling, interoperability
+```
+
+## Writing
+
+Technical notes, articles, and project documentation:
+
+**[riley-dsv.github.io](https://riley-dsv.github.io)**
+
+--- 
+
+>>> ping 1.1 is the fastest way to check a device's internet connectivity. This entry is automatically converted to 1.0.0.1, which is Cloudflare's public DNS http://1.1.1.1 because according to the IPV4 standard, missing bytes are converted to 0.
