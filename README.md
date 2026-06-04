@@ -61,4 +61,4 @@ Technical notes, articles, and project documentation:
 
 --- 
 
->>> ping 1.1 is the fastest way to check a device's internet connectivity. This entry is automatically converted to 1.0.0.1, which is Cloudflare's public DNS http://1.1.1.1 because according to the IPV4 standard, missing bytes are converted to 0.
+> ping 1.1 is the fastest way to check a device's internet connectivity. This entry is automatically converted to 1.0.0.1, which is Cloudflare's public DNS http://1.1.1.1 because according to the IPV4 standard, missing bytes are converted to 0.
