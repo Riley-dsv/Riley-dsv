@@ -1,6 +1,6 @@
-# Riley
+# Hi, I'm Riley
 
-I write software, break abstractions open, and occasionally teach old systems new tricks.
+I am an agender software developer from France, I break abstractions open, and occasionally recycle old system to teach them new tricks.
 
 My projects usually live somewhere between:
 
@@ -33,7 +33,7 @@ A project about financial transactions, modern services, and the inconvenient re
 
 **TypeScript - Error handling**
 
-A small `Result` implementation for code that prefers admitting failure explicitly.
+A small `Result` implementation for code that prefers spilling truth about their current states.
 
 ## Things I care about
 
