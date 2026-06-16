@@ -48,7 +48,7 @@ A small `Result` implementation for code that prefers spilling truth about their
 
 ```text
 Languages    Rust, TypeScript, C, COBOL, Pascal
-Backend      Node.js, MongoDB, Discord.js
+Backend      Node.js, MongoDB, Java, SQL, GraphQL
 Systems      Linux, Docker, Git, shell tooling
 Interests    Clean Architecture, native tooling, interoperability
 ```
